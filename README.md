@@ -15,7 +15,7 @@ This project implements a scheduling system in Prolog for assigning weekly labs 
 2. Clone the repository: Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/scheduling-system.git
+   https://github.com/Malek74/Scheduling-System
    ```
 
 3. Run the program: Open the Prolog interpreter and load the main file. Execute the main predicate to run the scheduling system.
